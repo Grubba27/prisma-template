@@ -17,7 +17,7 @@ async function main() {
       name: 'Gabriel',
       email: 'gabriel@prisma.io',
       posts: {
-        create: { title: 'Salve mundao' },
+        create: { title: 'Hello world' },
       },
       profile: {
         create: { bio: 'I like turtles' },
